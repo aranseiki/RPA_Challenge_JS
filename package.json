@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@microsoft/edge-selenium-tools": "^3.6.1",
+    "interactive": "^0.1.9",
+    "selenium-webdriver": "*"
+  },
+  "name": "envrpachalljsver",
+  "version": "1.0.0",
+  "main": "RPA_Challenge_JSVERSION.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
