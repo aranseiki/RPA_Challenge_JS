@@ -35,14 +35,13 @@
 
 # Executando o script
 #### Uma vez com todos os pré-requisitos atendidos, crie uma pasta para seu projeto e a nomeie como preferir;
-#### Após, copie o arquivo ``` rpa_challenge_jsversion.js ``` contido nesse repositório. Caso prefira, clone este repositório para a pasta recém-criada.
-#### Abra o Visual Studio Code nessa pasta.
+#### Após, copie o arquivo ``` rpa_challenge_jsversion.js ``` contido nesse repositório. Caso prefira, clone este repositório para a pasta recém-criada;
+#### Abra o Visual Studio Code nessa pasta;
 #### Abra o terminal do sistema dentro do Visual Studio Code. Copie o código abaixo para o terminal e pressione Enter:
 ``` npm install selenium-webdriver ```
 #### Execute o comando abaixo para efetivamente colocar em produção o script: 
 ``` node .\rpa_challenge_jsversion.js ```
-#### Para alterar as informações de preenchimento do formulário, altere as informações da variável ``` dados_formulario ``` 
-seguindo a ordem contida na variável  ``` campos_formulario ``` 
+#### Para alterar as informações de preenchimento do formulário, altere as informações da variável ``` dados_formulario ``` seguindo a ordem contida na variável  ``` campos_formulario ``` .
 
 
 
