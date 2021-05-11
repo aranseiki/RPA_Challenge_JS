@@ -29,13 +29,16 @@
   #### https://nodejs.dev/learn/how-to-install-nodejs
   
 * SeleniumWebDriver e WebDriver do navegador 
-  #### Para a instalação do SeleniumWebDriver e o WebDriver do navegador siga os passos contigo no link abaixo: 
-  #### https://www.selenium.dev/selenium/docs/api/javascript/index.html
+  #### Para a instalação do SeleniumWebDriver siga os passos contigo no link abaixo:
+  #### https://www.selenium.dev/documentation/en/selenium_installation/installing_selenium_libraries/
+  
+  #### Para a instalação do WebDriver do navegador siga os passos contigo no link abaixo:
+  #### https://www.selenium.dev/documentation/en/webdriver/driver_requirements/
   
 
 # Executando o script
 #### Uma vez com todos os pré-requisitos atendidos, crie uma pasta para seu projeto e a nomeie como preferir;
-#### Após, copie o arquivo ``` rpa_challenge_jsversion.js ``` contido nesse repositório. Caso prefira, clone este repositório para a pasta recém-criada;
+#### Após, copie os 3 arquivos contidos nesse repositório. Caso prefira, clone este repositório para a pasta recém-criada;
 #### Abra o Visual Studio Code nessa pasta;
 #### Abra o terminal do sistema dentro do Visual Studio Code. Copie o código abaixo para o terminal e pressione Enter:
 ``` npm install selenium-webdriver ```
