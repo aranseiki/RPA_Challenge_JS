@@ -1,8 +1,12 @@
 {
   "dependencies": {
     "@microsoft/edge-selenium-tools": "^3.6.1",
+    "install": "^0.13.0",
     "interactive": "^0.1.9",
-    "selenium-webdriver": "*"
+    "jsontoxml": "^1.0.1",
+    "npm": "^7.13.0",
+    "selenium-webdriver": "*",
+    "xlsx": "^0.17.0"
   },
   "name": "envrpachalljsver",
   "version": "1.0.0",
